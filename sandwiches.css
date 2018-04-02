@@ -1,0 +1,75 @@
+.jumbotron{ 
+  margin-top: 20px;
+  background-size: cover;
+  background-image: url('LeDipOutside.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 700px;
+}
+
+.image{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+.btn.primary {
+  color: #ffd400;
+  text-decoration: none;
+  background-color: white;
+}
+
+.btn.btn-primary:hover {
+  color: white;
+  background-color: #ffd400;
+}
+
+nav li a:link, a:visited {
+  background-color: #ffd400;
+  color: white;
+  padding: 10px 10px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+nav link{
+  background-color: #ffd400;
+  font-size: 14 px;
+}
+
+.brand{
+  width: 75px;
+  height: 75px;
+}
+.navbar{
+  width: 100%; 
+}
+
+h1{
+  font-size: 60px
+}
+
+#name{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.row li{ 
+  display: inline;
+  font-size: 15px;
+}
+
+#option{
+  color: #ffd400;
+}
+
+#info{
+  color: rgb(143, 22, 212);
+  font-size: 15px;
+}
+
